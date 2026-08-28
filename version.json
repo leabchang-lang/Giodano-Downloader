@@ -1,6 +1,6 @@
 {
   "version": "1.0.7",
-  "download_url": "https://github.com/leabchang-lang/Giodano-VIDEO-CUT/releases/download/v1.0.7/Giodano_Downloader_installer.exe",
+  "download_url": "https://github.com/leabchang-lang/Giodano-Downloader/releases/download/v1.0.7/Giodano_Downloader_installer.exe",
   "changelog": [
     "Updated to v1.0.7 with fixed software update checking mechanism.",
     "Integrated startup welcome sound configuration (Piseth Khmer Voice / Custom Upload).",
