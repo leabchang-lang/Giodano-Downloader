@@ -1,8 +1,8 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/leabchang-lang/Giodano-Downloader/releases/download/v1.1.0/Giodano_Downloader_v1.1.0_installer.exe",
+  "version": "1.1.1",
+  "download_url": "https://github.com/leabchang-lang/Giodano-Downloader/releases/download/v1.1.1/Giodano_Downloader_v1.1.1_installer.exe",
   "changelog": [
-    "Added desktop shortcut/icon option to Inno Setup installer, implemented silent background installation (UAC bypass), and fixed Windows taskbar icon display.",
+    "Optimized asset file size and download buffer chunk sizes for faster downloads, added desktop shortcut/icon option to Inno Setup installer, implemented silent background installation (UAC bypass), and fixed Windows taskbar icon display.",
     "Fixed yt-dlp missing error ([WinError 2]) by downloading dependencies dynamically and adding to environment PATH. Upgraded branding logo and icon sharpness.",
     "Updated to v1.0.7 with fixed software update checking mechanism.",
     "Integrated startup welcome sound configuration (Piseth Khmer Voice / Custom Upload).",
