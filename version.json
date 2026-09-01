@@ -1,10 +1,13 @@
 {
-  "version": "1.1.1",
-  "download_url": "https://github.com/leabchang-lang/Giodano-Downloader/releases/download/v1.1.1/Giodano_Downloader_v1.1.1_installer.exe",
+  "version": "1.1.2",
+  "download_url": "https://github.com/leabchang-lang/Giodano-Downloader/releases/download/v1.1.2/Giodano_Downloader_v1.1.2_installer.exe",
   "changelog": [
+    "Added FlareFlow drama downloader with automated fMP4 stream decryption, browser token sync, and smart lock detection.",
+    "Fixed iQIYI and IYF episode grid alignment and initial selection state.",
+    "Enhanced Pinterest video downloader with clearer profile URL error guidance.",
     "Optimized asset file size and download buffer chunk sizes for faster downloads, added desktop shortcut/icon option to Inno Setup installer, implemented silent background installation (UAC bypass), and fixed Windows taskbar icon display.",
     "Fixed yt-dlp missing error ([WinError 2]) by downloading dependencies dynamically and adding to environment PATH. Upgraded branding logo and icon sharpness.",
-    "Updated to v1.0.7 with fixed software update checking mechanism.",
+    "Updated to v1.1.2 with fixed software update checking mechanism.",
     "Integrated startup welcome sound configuration (Piseth Khmer Voice / Custom Upload).",
     "Enhanced modern Dark/Light theme swapping with premium animations.",
     "Optimized all-in-one downloader support for YouTube, Facebook, Tiktok, Douyin, Instagram, Pinterest, Youku, IYF, DramaBox, Reelshort, Dramabite, Anime, and Dailymotion.",
